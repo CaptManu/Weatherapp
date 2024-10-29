@@ -1,4 +1,4 @@
-const apiKey = 'YOUR_API_KEY';  // Replace with your actual API key
+const apiKey = e0460bebf975f9dd93fe45623aabcb9e;  // Replace with your actual API key
 const city = 'Vienna';
 const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
 
